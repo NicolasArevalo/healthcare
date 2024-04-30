@@ -1,0 +1,2 @@
+This is a sample project creating from the scratch a template provided by MGL .
+I usually don't use Bootstrap and was too much time since I learn it, so it changed a lot. Nevertheless, I tried out again. I'm sorry I couldn't finish properly the project but I'm sure with time to study Bootstrap I will be able to make it perfect. :)
